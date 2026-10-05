@@ -1,0 +1,19 @@
+{
+    "name": "ZombieStealth.Editor",
+    "rootNamespace": "ZombieStealth.Editor",
+    "references": [
+        "ZombieStealth.Runtime",
+        "Unity.AI.Navigation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
