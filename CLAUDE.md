@@ -226,4 +226,5 @@ Key AI design (see plan §4 and §8):
 
 - Don't touch `Library/`, `Temp/`, `Logs/`. Don't delete template files (`Assets/Main.unity`, `Scenes/SampleScene.unity`, `TutorialInfo/`) without asking.
 - Git: local only. Push only to remotes under `github.com/tabtale/`. Commit only when asked.
+- `README.md` (course-style overview modelled on ibunceski/Project-SentryNode) documents controls, architecture, states, level and tools. Update it when behaviour, numbers or zombie count change.
 - **Keep this file updated after every change**: phase status, new commands, architecture decisions.
