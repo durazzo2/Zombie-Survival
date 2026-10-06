@@ -38,3 +38,6 @@ Thumbs.db
 
 # CodeGraph index (local)
 .codegraph/
+
+# Local Claude Code notes (not part of the project)
+CLAUDE.md
